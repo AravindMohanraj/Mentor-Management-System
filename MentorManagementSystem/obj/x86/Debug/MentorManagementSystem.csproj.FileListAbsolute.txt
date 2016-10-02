@@ -1,0 +1,45 @@
+D:\MMS\MentorManagementSystem\MentorManagementSystem\bin\Debug\MentorManagementSystem.exe
+D:\MMS\MentorManagementSystem\MentorManagementSystem\bin\Debug\MentorManagementSystem.pdb
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.login_frm.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.Properties.Resources.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.exe
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.pdb
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.MDIParent1.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.studentattendance.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\bin\Debug\MentorManagementSystem.exe.config
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.addbatch.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.Entermarks.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.electivedetails.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.addstaff.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.studentdetails.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.subform.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\GenerateResource.write.2791.tlog
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.startf.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.studentsearch.resources
+D:\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.search.resources
+D:\Others\MMS\MentorManagementSystem\MentorManagementSystem\bin\Debug\MentorManagementSystem.exe.config
+D:\Others\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.exe
+D:\Others\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.pdb
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\bin\Debug\MentorManagementSystem.exe.config
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.exe
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.pdb
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\bin\Debug\MentorManagementSystem.exe
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\bin\Debug\MentorManagementSystem.pdb
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.csprojResolveAssemblyReference.cache
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.addbatch.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.addstaff.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.electivedetails.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.Entermarks.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.login_frm.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.MDIParent1.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.Properties.Resources.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.search.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.startf.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.studentattendance.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.studentdetails.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.studentsearch.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.subform.resources
+D:\documents\Other Projecs\MMS\MentorManagementSystem\MentorManagementSystem\obj\x86\Debug\MentorManagementSystem.csproj.GenerateResource.Cache
